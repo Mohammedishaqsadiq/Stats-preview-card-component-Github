@@ -1,0 +1,115 @@
+.main {
+  display: flex;
+  background-color: hsl(244, 38%, 16%);
+  width: 1010px;
+  border-radius: 10px;
+  height: 350px;
+  flex-direction: row;
+}
+
+.Inter {
+  font-family: Inter, sans-serif;
+}
+.padding-left {
+  padding-left: 60px;
+}
+.lexend {
+  font-family: Lexend Deca, sans-serif;
+}
+.header {
+  color: hsl(0, 0%, 100%);
+  align-self: flex-start;
+  padding-right: 70px;
+  padding-top: 50px;
+  font-weight: 700;
+  margin-top: -10px;
+}
+.paragrapgh {
+  margin-top: 35px;
+  padding-right: 85px;
+  line-height: 25px;
+  font-size: 13px;
+  font-weight: 0;
+}
+body {
+  background-color: hsl(233, 47%, 7%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.violet {
+  color: hsl(277, 64%, 61%);
+}
+.numcompanies {
+  margin-top: 38px;
+  font-weight: 380;
+}
+.amount {
+  display: flex;
+  flex-direction: row;
+}
+
+.font-size-amount {
+  font-size: 25px;
+}
+.white {
+  color: hsl(0, 0%, 100%);
+}
+.padding-left-amount {
+  padding-left: 79px;
+  padding-top: 40px;
+  font-weight: 400;
+}
+.font-size-names {
+  font-size: 12px;
+}
+.templates {
+  padding-left: 43px;
+}
+.queries {
+  margin-top: 2px;
+  margin-left: 329px;
+}
+.letter {
+  letter-spacing: 1px;
+}
+.gray {
+  color: hsla(0, 0%, 100%, 0.75);
+  font-weight: 400;
+}
+
+.cont {
+  margin-left: 25px;
+  background-image: url(../images/image-header-desktop.jpg);
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  height: 100%;
+  background-color: hsl(277, 64%, 61%);
+  opacity: 0.3;
+  width: 50%;
+
+}
+.num2templates {
+  display: flex;
+  margin-left: 120px;
+  margin-top: -90px;
+}
+.names {
+  margin-left: -115px;
+  margin-top: 75px;
+}
+.templates {
+  margin-left: 155px;
+  margin-top: 80px;
+}
+.num3queries {
+  display: flex;
+  margin-left: 250px;
+  margin-top: -90px;
+}
+
+.section1{
+  width: 480px;
+}
